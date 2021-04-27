@@ -1,0 +1,9 @@
+discord
+pymorphy2
+collections
+matplotlib.pyplot
+requests
+datetime
+PIL
+wikipedia
+json
